@@ -1,0 +1,7 @@
+{
+  "name": "secure-storage-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
